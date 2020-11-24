@@ -170,9 +170,9 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: rgb(156, 148, 148);
-		font-weight: 500;
-		line-height: 2.0;
+		color: rgb(247, 242, 242);
+		font-weight: 400;
+		line-height: 1.5;
 		margin: 0 0 1em 0;
 	}
 
